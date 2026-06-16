@@ -1,0 +1,3 @@
+Dans un hôtel, les clients peuvent signaler des problèmes de maintenance comme une fuite d’eau, une panne de climatisation ou un souci d’éclairage. 
+Aujourd’hui, beaucoup d’établissements veulent digitaliser ce processus afin de réduire les délais d’intervention, améliorer la communication entre la réception et les agents techniques, et suivre l’état des tickets en temps réel.
+Une solution moderne peut intégrer une application mobile, un tableau de bord web, des QR codes placés dans les chambres, et un système d’assignation automatique selon la priorité du problème.
